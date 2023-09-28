@@ -9,4 +9,4 @@ Freelance Developer
 
 Located in Istanbul, Turkey
 
-<IMG SRC="[animation1. gif](https://emoji.discadia.com/emojis/5d90593a-b388-49f3-8809-0856dd82077c.GIF)https://emoji.discadia.com/emojis/5d90593a-b388-49f3-8809-0856dd82077c.GIF">
+<IMG SRC="https://emoji.discadia.com/emojis/5d90593a-b388-49f3-8809-0856dd82077c.GIF">
